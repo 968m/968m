@@ -1,7 +1,7 @@
-Hi, I’m @968m, also known as Kostiantyn Usenko from Zaporizhzhia, Ukraine.
-I’m interested in part time work in front end dev.
-Please feel free to contact me via kostyantyn.usenko [at] gmail(dot)com
-I speak English, Polish, Ukrainian, Russian and a little bit of Spanish.
+Hi, I’m @968m, also known as Kostiantyn Usenko from Zaporizhzhia, Ukraine. <br>
+I’m interested in part time work in front end dev. <br>
+Please feel free to contact me via kostyantyn.usenko [at] gmail(dot)com <br>
+I speak English, Polish, Ukrainian, Russian and a little bit of Spanish. <br>
 
 
 
